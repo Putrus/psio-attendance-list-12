@@ -9,5 +9,6 @@ int main() {
     cout<<"Bartosz Radecki"<<endl;
     cout<<"Zuzanna Ratajczak"<<endl;
     cout<<"Mateusz Roszak"<<endl;
+    cout<<"Bartosz Rybarczyk"<<endl;
     return 0;
 }
