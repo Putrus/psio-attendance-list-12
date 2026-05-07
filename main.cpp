@@ -12,5 +12,7 @@ int main() {
     cout<<"Bartosz Rybarczyk"<<endl;
     cout<<"Jan Redzik"<<endl;
     cout<<"Mikolaj Ratajczak"<<endl;
+    cout<<"Bartosz Radny"<<endl;
+
     return 0;
 }
