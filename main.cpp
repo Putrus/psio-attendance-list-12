@@ -20,6 +20,7 @@ int main() {
     cout<<"Radoslaw Rzodeczko"<<endl;
     cout<<"Szymon Puk"<<endl;
     cout<<"Robert Ratusznik"<<endl;
+    cout<<"Milko Saj"<<endl;
 
     return 0;
 }
