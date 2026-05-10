@@ -21,6 +21,7 @@ int main() {
     cout<<"Szymon Puk"<<endl;
     cout<<"Robert Ratusznik"<<endl;
     cout<<"Milko Saj"<<endl;
+    cout<<"Iwo Rynowiecki"<<endl;
 
     return 0;
 }
